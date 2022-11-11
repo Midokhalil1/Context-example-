@@ -7,7 +7,7 @@ body {
 header {
   border: 2px solid red;
   margin: 2em;
-  background-color: aqua;
+  background-color: rgb(249, 253, 253);
 
 }
 
@@ -43,12 +43,13 @@ div {
   border: 2px solid orange;
   margin: 1em;
   flex-grow: 1;
-  background-color: rgb(2, 2, 2);
+  background-color: rgb(232, 15, 15);
 }
 
 button {
   font-stretch: normal;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background-color: rgb(255, 5, 163);
+  background-color: rgb(181, 81, 144);
   flex-flow: column-reverse;
+
 }
